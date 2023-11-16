@@ -1,8 +1,10 @@
 # Window Management Workflow for Alfred 5
 
-1. In Alfred Preference Dialog, left bottom, click `Alfred Gallery;
+1. In Alfred Preference Dialog, left bottom, click `Alfred Gallery`;
+   ![](images/automation-tasks-option.png)
 2. Click `Automation Task Options...`;
 3. Check both options, if necessary, `Reinstall Tasks`.
+   ![](images/automation-tasks-reinstall.png)
 4. Double click downloaded `Window Management.alfredworkflow` to intall the workdflow.
 
 | hotkey                             | Action                  |
